@@ -11,6 +11,5 @@ redirect_from:
 This section is for news.
 
 ## About me
-======
 This section is for introduction.
 
