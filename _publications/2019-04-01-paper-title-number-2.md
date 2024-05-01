@@ -1,0 +1,10 @@
+---
+title: "Harvested Energy and Spectral Efficiency Trade-offs in Multicell MIMO Wireless Networks"
+collection: publications
+# permalink: /publication/2010-10-01-paper-title-number-2
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2019-04-01
+venue: 'Radioengineering'
+paperurl: 'https://www.radioeng.cz/fulltexts/2019/19\_01\_0331\_0339.pdf'
+citation: 'Tien Ngoc Ha, Ha Hoang Kha, &quot;Harvested Energy and Spectral Efficiency Trade-offs in Multicell MIMO Wireless Networks&quot;, <i>Radioengineering</i>. vol. 28, no. 1, pp. 331-339, Apr. 2019.'
+---
