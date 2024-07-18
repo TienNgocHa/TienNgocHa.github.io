@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site.
+A list of all the posts and publications found on the site.
 
 <!-- <h2>Pages</h2>
 {% for post in site.pages %}
@@ -19,7 +19,12 @@ A list of all the posts and pages found on the site.
   {% include archive-single.html %}
 {% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
+<h2>Publications</h2>
+{% for post in site.publications %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
 {% unless collection.output == false or collection.label == "posts" %}
@@ -34,4 +39,4 @@ A list of all the posts and pages found on the site.
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
